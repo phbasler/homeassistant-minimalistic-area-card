@@ -314,7 +314,7 @@ class MinimalisticAreaCard extends LitElement {
       }
       ha-card {
         position: relative;
-        min-height: 48px;
+        min-height: 96px;
         height: 100%;
         z-index: 0;
       }
